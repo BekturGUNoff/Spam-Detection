@@ -6,7 +6,7 @@ Data and Methods:
 Data and datasets that were involved in the project are randomly generated scenarios of two types of messages normal( safe ) or spam( dangerous). This dataset originally was uploaded from YouTube and by using Internet searches I can model the code.
 
 Results:
-Results are satisfactory, if you input a sentence of normal or spam, the program will give the responsive answer. Among 5572 lines and 2 columns around 55% of sentences are spam. To test programs’ functionality I chose one normal message and spam message, results you can see in the screenshots below:
+Results are satisfactory, if you input a sentence of normal or spam, the program will give the responsive answer. Among 5572 lines and 2 columns 13.41% of sentences are spam. To test programs’ functionality I chose one normal message and spam message, results you can see in the screenshots below:
 
 
 Discussion:
